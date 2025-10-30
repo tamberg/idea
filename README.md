@@ -26,6 +26,8 @@ cow
 dance
 ```
 
+> Idea: what you imagine, loosely sticking to constraints.
+
 ## IoT example
 Use the predefined _iot_ category files.
 ```bash
