@@ -20,7 +20,7 @@ Generate an idea using the category files.
 $ ./idea animal.txt activity.txt
 ```
 
-Result: a random line wa spicked from each file.
+Result: one random line was picked from each file.
 ```bash
 cow
 dance
