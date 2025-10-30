@@ -35,5 +35,6 @@ domain.txt	input.txt	output.txt	subject.txt
 
 Generate an idea using these category files.
 ```bash
-$ ./idea iot/subject.txt iot/input.txt iot/output.txt iot/domain.txt
+$ cd iot
+$ ../idea subject.txt input.txt output.txt domain.txt
 ```
