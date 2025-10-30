@@ -26,7 +26,7 @@ cow
 dance
 ```
 
-> Idea: what you imagine, loosely sticking to constraints.
+> Idea: what you imagine, loosely related to these terms.
 
 ## IoT example
 Check the predefined _iot_ categories.
