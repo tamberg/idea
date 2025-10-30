@@ -38,3 +38,13 @@ Generate an idea using these category files.
 $ cd iot
 $ ../idea subject.txt input.txt output.txt domain.txt
 ```
+
+### Weather warning
+```bash
+weather (sun, rain, wind, ...)
+door/window state (magnetic switch)
+indicator (LEDs on a board, discrete options)
+when cooking (boiling, baking, ...)
+```
+
+=> Idea: detect heavy rain, if any window is open, show a warning, in the kitchen.
