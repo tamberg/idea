@@ -11,13 +11,13 @@ usage: ./idea file-1 file-2 ... file-n
 ## Basic example
 Create a file for each category.
 ```bash
-$ echo "cat\ncow\ndog" > animal.txt
-$ echo "walk\nrun\ndance" > activity.txt
+$ echo "cat\ncow\ndog" > animal
+$ echo "walk\nrun\ndance" > activity
 ```
 
 Generate an idea using the category files.
 ```bash
-$ ./idea animal.txt activity.txt
+$ ./idea animal activity
 ```
 
 Result: one random line was picked from each file.
