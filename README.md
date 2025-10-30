@@ -15,7 +15,7 @@ $ echo "cat\ncow\ndog" > animal.txt
 $ echo "walk\nrun\ndance" > activity.txt
 ```
 
-Generate an idea using both category files.
+Generate an idea using the category files.
 ```bash
 $ ./idea animal.txt activity.txt
 ```
