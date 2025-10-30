@@ -29,7 +29,7 @@ dance
 > Idea: what you imagine, loosely sticking to constraints.
 
 ## IoT example
-Use the predefined _iot_ category files.
+Check the predefined _iot_ category files.
 ```bash
 $ ls iot
 domain.txt	input.txt	output.txt	subject.txt
