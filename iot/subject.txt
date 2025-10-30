@@ -1,0 +1,7 @@
+human (self, neighbour, worker, ...)
+animal (cat, dog, cow, horse, ...)
+plant (tree, flower, crops, ...)
+environment (air, water, soil, ...)
+asset (packet, machine, vehicle, ...)
+room (kitchen, bedroom, bathroom, ...)
+weather (sun, rain, wind, ...)
