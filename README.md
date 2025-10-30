@@ -9,10 +9,19 @@ usage: ./idea file-1 file-2 ... file-n
 ```
 
 ## Basic example
+Create a file for each category.
 ```bash
 $ echo "cat\ncow\ndog" > animal.txt
 $ echo "walk\nrun\ndance" > activity.txt
+```
+
+Generate an idea using both category files.
+```bash
 $ ./idea animal.txt activity.txt
+```
+
+Result: a random line wa spicked from each file.
+```bash
 cow
 dance
 ```
