@@ -21,7 +21,7 @@ $ ./idea animal.txt activity.txt
 ```
 
 Result: one random line was picked from each file.
-```bash
+```
 cow
 dance
 ```
@@ -42,7 +42,7 @@ $ ../idea subject.txt input.txt output.txt domain.txt
 ```
 
 ### Cat feeder
-```bash
+```
 animal (cat, dog, cow, horse, ...)
 brightness (LDR, light sensor)
 power (relay for 12V or 230V, applicance, ...)
@@ -52,7 +52,7 @@ at school (classroom, hallway, mensa, ...)
 > Idea: at school, if the cat wants food, switch on a dispenser.
 
 ### Weather warning
-```bash
+```
 weather (sun, rain, wind, ...)
 door/window state (magnetic switch)
 indicator (LEDs on a board, discrete options)
