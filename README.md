@@ -9,17 +9,32 @@ usage: ./idea file-1 file-2 ... file-n
 ```
 
 ## Basic example
+Create a file for each category.
 ```bash
 $ echo "cat\ncow\ndog" > animal.txt
 $ echo "walk\nrun\ndance" > activity.txt
+```
+
+Generate an idea using the category files.
+```bash
 $ ./idea animal.txt activity.txt
+```
+
+Result: one random line was picked from each file.
+```bash
 cow
 dance
 ```
 
 ## IoT example
+Use the predefined _iot_ category files.
 ```bash
 $ ls iot
 domain.txt	input.txt	output.txt	subject.txt
-$ ./idea iot/subject.txt iot/input.txt iot/output.txt iot/domain.txt
+```
+
+Generate an idea using these category files.
+```bash
+$ cd iot
+$ ../idea subject.txt input.txt output.txt domain.txt
 ```
