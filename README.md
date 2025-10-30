@@ -30,10 +30,7 @@ dance
 Use the predefined _iot_ category files.
 ```bash
 $ ls iot
-domain.txt
-input.txt
-output.txt
-subject.txt
+domain.txt	input.txt	output.txt	subject.txt
 ```
 
 Generate an idea using these category files.
