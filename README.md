@@ -27,7 +27,7 @@ dance
 ```
 
 ## IoT example
-Use the predefined 'iot' category files.
+Use the predefined _iot_ category files.
 ```bash
 $ ls iot
 domain.txt	input.txt	output.txt	subject.txt
