@@ -30,37 +30,35 @@ dance
 
 > Idea: what you imagine, loosely related to these terms.
 
-## IoT example
-Check the predefined [iot](iot) categories.
+## FHNW IoT example
+Check the predefined _fhnw-iot_ categories.
 ```bash
-$ ls iot
-domain.txt	input.txt	output.txt	subject.txt
-$ cat index.txt
+$ cat fhnw-iot/index.txt
 ...
 ```
 
-Generate an idea using these category files.
+Generate an idea using the [fhnw-iot](fhnw-iot) category files.
 ```bash
-$ cd iot
+$ cd fhnw-iot
 $ ../idea subject.txt input.txt output.txt domain.txt
 ```
 
 ### Cat feeder
 ```
-animal (cat, dog, cow, horse, ...)
-brightness (LDR, light sensor)
-power (relay for 12V or 230V, applicance, ...)
-at school (classroom, hallway, mensa, ...)
+Animal (cat, dog, cow, horse, ...)
+Brightness (LDR, light sensor)
+Power (relay for 12V or 230V, applicance, ...)
+At school (classroom, hallway, mensa, ...)
 ```
 
 > Idea: at school, if the cat wants food, switch on a dispenser.
 
 ### Weather warning
 ```
-weather (sun, rain, wind, ...)
-door/window state (magnetic switch)
-indicator (LEDs on a board, discrete options)
-when cooking (boiling, baking, ...)
+Weather (sun, rain, wind, ...)
+Door/window state (magnetic switch)
+Indicator (LEDs on a board, discrete options)
+When cooking (boiling, baking, ...)
 ```
 
 > Idea: detect heavy rain, if any window is open, show a warning in the kitchen.
@@ -68,18 +66,15 @@ when cooking (boiling, baking, ...)
 ## Tiles example
 Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit), (c) 2019 Tiles Technologies AS, licensed under [MIT License](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit/blob/master/LICENSE).
 
-Check the predefined [tiles](tiles) category files.
+Check the predefined _tiles-iot_ categories.
 ```bash
-$ ls tiles
-actions.txt	feedback.txt	missions.txt	scenarios.txt	services.txt
-criteria.txt	index.txt	personas.txt	sensors.txt	things.txt
-$ cat index.txt
+$ cat tiles-iot/index.txt
 ...
 ```
 
-Generate an idea using these category files.
+Generate an idea using the [tiles-iot](tiles-iot) category files.
 ```bash
-$ cd tiles
+$ cd tiles-iot
 $ ../idea things.txt sensors.txt feedback.txt
 ```
 
