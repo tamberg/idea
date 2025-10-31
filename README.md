@@ -31,6 +31,8 @@ Use the predefined _iot_ category files.
 ```bash
 $ ls iot
 domain.txt	input.txt	output.txt	subject.txt
+$ cat index.txt
+...
 ```
 
 Generate an idea using these category files.
@@ -38,3 +40,17 @@ Generate an idea using these category files.
 $ cd iot
 $ ../idea subject.txt input.txt output.txt domain.txt
 ```
+
+## Tiles example
+Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit), (c) 2019 Tiles Technologies AS, licensed under [MIT License](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit/blob/master/LICENSE), see 
+[www.tilestoolkit.io](https://www.tilestoolkit.io) for details and buy their kit.
+
+Use the predefined _tiles_ category files.
+```bash
+$ ls tiles
+actions.txt	feedback.txt	missions.txt	scenarios.txt	services.txt
+criteria.txt	index.txt	personas.txt	sensors.txt	things.txt
+$ cat index.txt
+...
+```
+
