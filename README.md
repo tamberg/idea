@@ -1,13 +1,15 @@
 # Idea
-A simple idea generator — picks a line each from n files with newline terminated lines to generate new combinations.
+A simple idea generator — picks a random line each from n files.
 
-> Got a card deck to include? Get in touch! [@tamberg](https://quite.social/@tamberg)
+> Got a card deck to include? [Add an issue](../../issues/new).
 
 - [Basic example](#basic-example)
 - [FHNW IoT example](#fhnw-iot-example)
 - [Tiles IoT example](#tiles-iot-example)
 
 ## Build the tool
+On Mac or Linux.
+
 ```console
 $ gcc -o idea idea.c
 $ ./idea
@@ -38,13 +40,19 @@ dance
 > Idea: what you imagine, loosely related to these terms.
 
 ## FHNW IoT example
-Developed for [this course](https://github.com/tamberg/fhnw-iot) at [FHNW](https://fhnw.ch) and [this course](https://github.com/tamberg/mse-tsm-mobcom) at [MSE](https://www.msengineering.ch).
+Developed for [this course](https://github.com/tamberg/fhnw-iot) at [FHNW](https://fhnw.ch) and [this course](https://github.com/tamberg/mse-tsm-mobcom) at [MSE](https://www.msengineering.ch), based on [this hardware](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main).
 
 Check the predefined categories.
 ```console
 $ cat fhnw-iot/index.txt
 ```
 
+```
+Subject (Who/what this is about.)
+Input (Sensor input, trigger.)
+Output (Actuator output, action.)
+Domain (In which field, situation.)
+```
 
 Generate an idea using the [fhnw-iot](fhnw-iot) category files.
 ```console
@@ -95,7 +103,15 @@ Personas (Target users for your IoT idea.)
 Generate an idea using the [tiles-iot](tiles-iot) category files.
 ```console
 $ cd tiles-iot
-$ ../idea things.txt sensors.txt feedback.txt
+$ ../idea sensors.txt things.txt feedback.txt
 ```
 
-For details on their process, see [tilestoolkit.io](https://www.tilestoolkit.io) (or [buy the kit](https://www.tilestoolkit.io/buy-workshop-in-a-bag/)).
+For details on their process, see [tilestoolkit.io](https://www.tilestoolkit.io).
+
+### Wearable thermometer
+```
+Temperature (Temperature of the object or the ambient in its surroundings.)
+Jewelry (A piece of jewelry, for example a ring, an armlet or a necklace.)
+Custom feedback (Sketch or describe your new feedback here.)
+```
+> Idea: Something like the [Ava fertility tracker](https://www.avawomen.com).
