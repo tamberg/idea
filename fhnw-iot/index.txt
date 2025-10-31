@@ -1,4 +1,4 @@
-Domain
-Input
-Output
-Subject
+Subject (Who/what this is about.)
+Input (Sensor input, trigger.)
+Output (Actuator output, action.)
+Domain (In which field, situation.)
