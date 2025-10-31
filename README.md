@@ -106,7 +106,7 @@ $ cd tiles-iot
 $ ../idea sensors.txt things.txt feedback.txt
 ```
 
-## Wearable thermometer
+### Wearable thermometer
 ```
 Temperature (Temperature of the object or the ambient in its surroundings.)
 Jewelry (A piece of jewelry, for example a ring, an armlet or a necklace.)
