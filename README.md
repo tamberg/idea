@@ -106,4 +106,12 @@ $ cd tiles-iot
 $ ../idea sensors.txt things.txt feedback.txt
 ```
 
+## Wearable thermometer
+```
+Temperature (Temperature of the object or the ambient in its surroundings.)
+Jewelry (A piece of jewelry, for example a ring, an armlet or a necklace.)
+Custom feedback (Sketch or describe your new feedback here.)
+```
+> Idea: something like https://www.avawomen.com
+
 For details on their process, see [tilestoolkit.io](https://www.tilestoolkit.io) (or [buy the kit](https://www.tilestoolkit.io/buy-workshop-in-a-bag/)).
