@@ -8,15 +8,18 @@ A simple idea generator — picks a line each from n files with newline terminat
 - [Tiles IoT example](#tiles-iot-example)
 
 ## Build the tool
-```bash
+```console
 $ gcc -o idea idea.c
 $ ./idea
+```
+
+```
 usage: ./idea file-1 file-2 ... file-n
 ```
 
 ## Basic example
 Create a file for each category.
-```bash
+```console
 $ echo "cat\ncow\ndog" > animal
 $ echo "walk\nrun\ndance" > activity
 ```
@@ -38,13 +41,13 @@ dance
 Developed for [this course](https://github.com/tamberg/fhnw-iot) at [FHNW](https://fhnw.ch) and [this course](https://github.com/tamberg/mse-tsm-mobcom) at [MSE](https://www.msengineering.ch).
 
 Check the predefined categories.
-```bash
+```console
 $ cat fhnw-iot/index.txt
-...
 ```
 
+
 Generate an idea using the [fhnw-iot](fhnw-iot) category files.
-```bash
+```console
 $ cd fhnw-iot
 $ ../idea subject.txt input.txt output.txt domain.txt
 ```
@@ -73,8 +76,11 @@ When cooking (boiling, baking, ...)
 Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit), (c) 2019 Tiles Technologies AS, licensed under [MIT License](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit/blob/master/LICENSE).
 
 Check the predefined categories.
-```
+```console
 $ cat tiles-iot/index.txt
+```
+
+```
 Things (Physical objects to be augmented with technology and interactivity.)
 Sensors (Sensors that connect to a thing to register data from its surroundings.)
 Feedback (Output feedback used by the object to communicate back to the user.)
@@ -87,7 +93,7 @@ Personas (Target users for your IoT idea.)
 ```
 
 Generate an idea using the [tiles-iot](tiles-iot) category files.
-```bash
+```console
 $ cd tiles-iot
 $ ../idea things.txt sensors.txt feedback.txt
 ```
