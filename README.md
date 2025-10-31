@@ -45,6 +45,12 @@ Check the predefined categories.
 $ cat fhnw-iot/index.txt
 ```
 
+```
+Domain (Application domain, field.)
+Input (Sensor input, trigger.)
+Output (Actuator output, action.)
+Subject (Who is subjected to it.)
+```
 
 Generate an idea using the [fhnw-iot](fhnw-iot) category files.
 ```console
