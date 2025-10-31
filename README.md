@@ -38,7 +38,7 @@ dance
 > Idea: what you imagine, loosely related to these terms.
 
 ## FHNW IoT example
-Developed for [this course](https://github.com/tamberg/fhnw-iot) at [FHNW](https://fhnw.ch) and [this course](https://github.com/tamberg/mse-tsm-mobcom) at [MSE](https://www.msengineering.ch), both based on this [hardware library](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main).
+Developed for [this course](https://github.com/tamberg/fhnw-iot) at [FHNW](https://fhnw.ch) and [this course](https://github.com/tamberg/mse-tsm-mobcom) at [MSE](https://www.msengineering.ch), based on this [hardware library](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main).
 
 Check the predefined categories.
 ```console
