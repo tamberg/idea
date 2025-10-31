@@ -1,6 +1,8 @@
 # Idea
 A simple idea generator — picks a line each from n files with newline terminated lines to generate new combinations.
 
+> Got a card deck to include? Get in touch! [@tamberg](https://quite.social/@tamberg)
+
 ## Build
 ```bash
 $ gcc -o idea idea.c
