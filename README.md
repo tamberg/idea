@@ -103,7 +103,7 @@ Personas (Target users for your IoT idea.)
 Generate an idea using the [tiles-iot](tiles-iot) category files.
 ```console
 $ cd tiles-iot
-$ ../idea things.txt sensors.txt feedback.txt
+$ ../idea sensors.txt things.txt feedback.txt
 ```
 
 For details on their process, see [tilestoolkit.io](https://www.tilestoolkit.io) (or [buy the kit](https://www.tilestoolkit.io/buy-workshop-in-a-bag/)).
