@@ -77,6 +77,6 @@ $ cat index.txt
 
 Generate an idea using these category files.
 ```bash
-$ cd iot
+$ cd tiles
 $ ../idea things.txt sensors.txt feedback.txt
 ```
