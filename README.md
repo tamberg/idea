@@ -3,7 +3,11 @@ A simple idea generator — picks a line each from n files with newline terminat
 
 > Got a card deck to include? Get in touch! [@tamberg](https://quite.social/@tamberg)
 
-## Build
+- [Basic example](#basic-example)
+- [FHNW IoT example](#fhnw-iot-example)
+- [Tiles IoT](#tiles-iot-example)
+
+## Build the tool
 ```bash
 $ gcc -o idea idea.c
 $ ./idea
