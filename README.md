@@ -66,11 +66,17 @@ when cooking (boiling, baking, ...)
 ## Tiles example
 Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit), (c) 2019 Tiles Technologies AS, licensed under [MIT License](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit/blob/master/LICENSE). For details, and to buy their kit, see [tilestoolkit.io](https://www.tilestoolkit.io).
 
-Use the predefined _tiles_ category files.
+Check the predefined _tiles_ category files.
 ```bash
 $ ls tiles
 actions.txt	feedback.txt	missions.txt	scenarios.txt	services.txt
 criteria.txt	index.txt	personas.txt	sensors.txt	things.txt
 $ cat index.txt
 ...
+```
+
+Generate an idea using these category files.
+```bash
+$ cd iot
+$ ../idea things.txt sensors.txt feedback.txt
 ```
