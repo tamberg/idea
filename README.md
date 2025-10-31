@@ -64,7 +64,7 @@ when cooking (boiling, baking, ...)
 > Idea: detect heavy rain, if any window is open, show a warning in the kitchen.
 
 ## Tiles example
-Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit), (c) 2019 Tiles Technologies AS, licensed under [MIT License](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit/blob/master/LICENSE). For details, and to buy their kit, see [tilestoolkit.io](https://www.tilestoolkit.io).
+Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit), (c) 2019 Tiles Technologies AS, licensed under [MIT License](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit/blob/master/LICENSE).
 
 Check the predefined _tiles_ category files.
 ```bash
@@ -80,3 +80,5 @@ Generate an idea using these category files.
 $ cd tiles
 $ ../idea things.txt sensors.txt feedback.txt
 ```
+
+For details on their process, and to buy their kit, see [tilestoolkit.io](https://www.tilestoolkit.io).
