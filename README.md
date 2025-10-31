@@ -31,7 +31,7 @@ dance
 > Idea: what you imagine, loosely related to these terms.
 
 ## IoT example
-Check the predefined _iot_ categories.
+Check the predefined [iot](iot) categories.
 ```bash
 $ ls iot
 domain.txt	input.txt	output.txt	subject.txt
@@ -68,7 +68,7 @@ when cooking (boiling, baking, ...)
 ## Tiles example
 Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit), (c) 2019 Tiles Technologies AS, licensed under [MIT License](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit/blob/master/LICENSE).
 
-Check the predefined _tiles_ category files.
+Check the predefined [tiles](tiles) category files.
 ```bash
 $ ls tiles
 actions.txt	feedback.txt	missions.txt	scenarios.txt	services.txt
