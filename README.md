@@ -5,7 +5,7 @@ A simple idea generator — picks a line each from n files with newline terminat
 
 - [Basic example](#basic-example)
 - [FHNW IoT example](#fhnw-iot-example)
-- [Tiles IoT](#tiles-iot-example)
+- [Tiles IoT example](#tiles-iot-example)
 
 ## Build the tool
 ```bash
