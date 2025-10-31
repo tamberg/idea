@@ -63,7 +63,7 @@ When cooking (boiling, baking, ...)
 
 > Idea: detect heavy rain, if any window is open, show a warning in the kitchen.
 
-## Tiles example
+## Tiles IoT example
 Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit), (c) 2019 Tiles Technologies AS, licensed under [MIT License](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit/blob/master/LICENSE).
 
 Check the predefined _tiles-iot_ categories.
