@@ -75,7 +75,15 @@ Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit)
 Check the predefined categories.
 ```bash
 $ cat tiles-iot/index.txt
-...
+Things (Physical objects to be augmented with technology and interactivity.)
+Sensors (Sensors that connect to a thing to register data from its surroundings.)
+Feedback (Output feedback used by the object to communicate back to the user.)
+Actions (Human gestures and object interactions to activate behaviors and routines.)
+Services (Online services that exchange data with the objects, like web services, apps or remote sensors.)
+Missions (The purpose, value or utility that your IoT idea provides to people.)
+Criteria (Reflection criteria to help evaluate your IoT idea.)
+Scenarios (Problems and challenges that your IoT idea is addressing.)
+Personas (Target users for your IoT idea.)
 ```
 
 Generate an idea using the [tiles-iot](tiles-iot) category files.
