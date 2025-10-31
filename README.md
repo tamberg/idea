@@ -48,10 +48,10 @@ $ cat fhnw-iot/index.txt
 ```
 
 ```
-Domain (Application domain, field.)
+Subject (Who/what this is about.)
 Input (Sensor input, trigger.)
 Output (Actuator output, action.)
-Subject (Who/what this is about.)
+Domain (In which field, situation.)
 ```
 
 Generate an idea using the [fhnw-iot](fhnw-iot) category files.
