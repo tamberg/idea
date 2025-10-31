@@ -1,7 +1,7 @@
 # Idea
 A simple idea generator — picks a random line each from n files.
 
-> Got an ideation card deck to include? [Add an issue](../../issues/new).
+> Got a card deck to include? [Add an issue](../../issues/new).
 
 - [Basic example](#basic-example)
 - [FHNW IoT example](#fhnw-iot-example)
