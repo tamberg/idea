@@ -68,7 +68,7 @@ Power (relay for 12V or 230V, applicance, ...)
 At school (classroom, hallway, mensa, ...)
 ```
 
-> Idea: at school, if the cat wants food, switch on a dispenser.
+> Idea: At school, if the cat wants food, switch on a dispenser.
 
 ### Weather warning
 ```
@@ -78,7 +78,7 @@ Indicator (LEDs on a board, discrete options)
 When cooking (boiling, baking, ...)
 ```
 
-> Idea: detect heavy rain, if any window is open, show a warning in the kitchen.
+> Idea: Detect heavy rain, if any window is open, show a warning in the kitchen.
 
 ## Tiles IoT example
 Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit), (c) 2019 Tiles Technologies AS, licensed under [MIT License](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit/blob/master/LICENSE).
