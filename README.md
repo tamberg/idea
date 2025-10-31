@@ -8,6 +8,8 @@ A simple idea generator — picks a random line each from n files.
 - [Tiles IoT example](#tiles-iot-example)
 
 ## Build the tool
+On Mac or Linux, maybe Windows.
+
 ```console
 $ gcc -o idea idea.c
 $ ./idea
