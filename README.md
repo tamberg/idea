@@ -37,7 +37,7 @@ dance
 ## FHNW IoT example
 Developed for [this course](https://github.com/tamberg/fhnw-iot) at [FHNW](https://fhnw.ch) and [this course](https://github.com/tamberg/mse-tsm-mobcom) at [MSE](https://www.msengineering.ch).
 
-Check the predefined _fhnw-iot_ categories.
+Check the predefined categories.
 ```bash
 $ cat fhnw-iot/index.txt
 ...
@@ -72,7 +72,7 @@ When cooking (boiling, baking, ...)
 ## Tiles IoT example
 Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit), (c) 2019 Tiles Technologies AS, licensed under [MIT License](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit/blob/master/LICENSE).
 
-Check the predefined _tiles-iot_ categories.
+Check the predefined categories.
 ```bash
 $ cat tiles-iot/index.txt
 ...
