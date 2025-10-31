@@ -114,4 +114,4 @@ Temperature (Temperature of the object or the ambient in its surroundings.)
 Jewelry (A piece of jewelry, for example a ring, an armlet or a necklace.)
 Custom feedback (Sketch or describe your new feedback here.)
 ```
-> Idea: Something like the [Ava](https://www.avawomen.com) fertility tracker.
+> Idea: Something like the [Ava fertility tracker](https://www.avawomen.com).
