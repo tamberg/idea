@@ -1,4 +1,4 @@
-domain
-input
-output
-subject
+Domain
+Input
+Output
+Subject
