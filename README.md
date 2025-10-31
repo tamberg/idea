@@ -106,7 +106,7 @@ $ cd tiles-iot
 $ ../idea sensors.txt things.txt feedback.txt
 ```
 
-For details on their process, see [tilestoolkit.io](https://www.tilestoolkit.io) (or [buy the kit](https://www.tilestoolkit.io/buy-workshop-in-a-bag/)).
+For details on their process, see [tilestoolkit.io](https://www.tilestoolkit.io).
 
 ### Wearable thermometer
 ```
