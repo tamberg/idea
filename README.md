@@ -31,6 +31,8 @@ dance
 > Idea: what you imagine, loosely related to these terms.
 
 ## FHNW IoT example
+Developed for [this course](https://github.com/tamberg/fhnw-iot) at [FHNW](https://fhnw.ch) and [this course](https://github.com/tamberg/mse-tsm-mobcom) at [MSE](https://www.msengineering.ch).
+
 Check the predefined _fhnw-iot_ categories.
 ```bash
 $ cat fhnw-iot/index.txt
