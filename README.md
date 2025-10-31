@@ -69,8 +69,8 @@ Based on [this work](https://github.com/tilestoolkit/tiles-IoT-inventor-toolkit)
 Use the predefined _tiles_ category files.
 ```bash
 $ ls tiles
-actions.txt feedback.txt    missions.txt    scenarios.txt   services.txt
-criteria.txt    index.txt   personas.txt    sensors.txt things.txt
+actions.txt	feedback.txt	missions.txt	scenarios.txt	services.txt
+criteria.txt	index.txt	personas.txt	sensors.txt	things.txt
 $ cat index.txt
 ...
 ```
